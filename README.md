@@ -20,3 +20,5 @@ I have visualised:
 - Average Overall vs Potentional Ratings  
   
 I have also be implementing my own PREMIER LEAGUE SQUAD BUILDER algorithm that takes into account Budget, Formation and Overall Rating.
+
+(Link to Dataset Collection: https://www.kaggle.com/datasets/joebeachcapital/fifa-players)
